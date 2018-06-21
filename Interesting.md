@@ -5,3 +5,14 @@ Practice it with the star exercise Edgar proposed.
 https://www.youtube.com/watch?v=Y0_FMCji3iE
 
 Change
+
+
+
+Stackblitz
+
+Codeanywhere
+
+
+Recopilatorio random:
+
+https://ide.ceriously.com/
