@@ -16,3 +16,15 @@ Codeanywhere
 Recopilatorio random:
 
 https://ide.ceriously.com/
+
+
+To learn:
+
+Mejorar Terminal
+
+Ides
+
+
+Camelcase
+
+Breadcrumps
